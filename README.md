@@ -1,4 +1,4 @@
 # hello-world
 my first Githab repository
 
-I'll write even 2 bits about myself! 10 (o_o)
+I'll even write 2 bits about myself! 10 (o_o)
